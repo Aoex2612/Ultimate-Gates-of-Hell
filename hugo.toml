@@ -1,5 +1,5 @@
 baseURL = 'http://localhost:1313/'
-locale = 'es-es'
+locale = 'eng'
 title = 'Ultimate Gates of Hell'
 theme = 'PaperMod'
 
@@ -11,14 +11,24 @@ defaultTheme = 'dark'
 showToc = false
 
 [[menu.main]]
+name = "Framedata"
+url = "/framedata"
+weight = 1
+
+[[menu.main]]
 name = "Combos"
 url = "/posts/"
-weight = 10
+weight = 2
 
 [[menu.main]]
 name = "Matchups"
 url = "/matchups/"
-weight = 20
+weight = 3
+
+[[menu.main]]
+name = "Stages"
+url = "/stages/"
+weight = 4
 
 [markup]
   [markup.goldmark]
