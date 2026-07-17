@@ -9,6 +9,8 @@ title = 'Ultimate Gates of Hell'
 description = 'New you, dead you'
 defaultTheme = 'dark'
 showToc = false
+favicon = "/favicon.ico"
+appleTouchIcon = "/apple-touch-icon.png"
 
 [[menu.main]]
 name = "Framedata"
