@@ -1,0 +1,25 @@
+---
+title: "Ultimate Gates of Hell"
+layout: "single" # Esto le dice a PaperMod que renderice este archivo como una página única, ignorando la lista de posts
+---
+
+# ¡Bienvenido a la guía definitiva de Bayonetta! 
+
+(/images/come-on.webp)
+
+
+Esta plataforma está pensada como un compendio técnico para los jugadores que buscan dominar a **Bayonetta** en *Super Smash Bros. Ultimate*. 
+
+Aquí recopilaremos todo el metajuego en español.
+
+## ¿Qué vas a encontrar aquí?
+
+*   **Combos Estructurados:** Desde rutas básicas a porcentajes bajos hasta opciones óptimas de *kill confirm*.
+*   **Análisis de Matchups:** Consejos específicos y estrategias para enfrentarte a los personajes más complicados del meta actual.
+*   **Mecánicas Avanzadas:** Explicación detallada de técnicas como el *Slightly Delayed Witch Twist*, cancelaciones de animaciones y el uso defensivo de *Bat Within*.
+
+---
+
+> *"If you need to learn how to talk to a lady, ask your mum."*
+
+Usa el menú superior para navegar de forma sencilla por los diferentes apartados.

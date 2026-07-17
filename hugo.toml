@@ -1,0 +1,21 @@
+baseURL = 'http://localhost:1313/'
+locale = 'es-es'
+title = 'Ultimate Gates of Hell'
+theme = 'PaperMod'
+
+[params]
+env = 'production'
+title = 'Ultimate Gates of Hell'
+description = 'Guías, combos y recursos de Bayonetta en Smash Ultimate'
+defaultTheme = 'dark'
+showToc = true
+
+[[menu.main]]
+name = "Combos"
+url = "/posts/"
+weight = 10
+
+[[menu.main]]
+name = "Matchups"
+url = "/matchups/"
+weight = 20

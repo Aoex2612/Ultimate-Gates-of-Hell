@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ultimate Gates of Hell</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Ultimate Gates of Hell</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 16 Jul 2026 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guía de Combos Básicos de Bayonetta</title>
+      <link>http://localhost:1313/posts/combos-basicos/</link>
+      <pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/combos-basicos/</guid>
+      <description>&lt;h1 id=&#34;iniciando-el-combo-de-la-bruja&#34;&gt;Iniciando el Combo de la Bruja&lt;/h1&gt;
+&lt;p&gt;Bayonetta en Ultimate destaca por su juego de combo vertical y su capacidad de llevar al rival al límite superior de la pantalla mediante sus movimientos especiales.&lt;/p&gt;
+&lt;h2 id=&#34;movimientos-clave-para-combos&#34;&gt;Movimientos Clave para Combos&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Heel Slide (Lateral B en el suelo):&lt;/strong&gt; Excelente iniciador a porcentajes bajos y medios.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;After Burner Kick (Aéreo Lateral B):&lt;/strong&gt; El motor de sus combos aéreos. Recuerda que si impactas al rival, puedes usarlo una segunda vez.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Witch Twist (Arriba B):&lt;/strong&gt; Eleva al oponente y te permite seguir la secuencia en el aire.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;el-combo-básico-de-iniciación-0---30&#34;&gt;El Combo Básico de Iniciación (0% - 30%)&lt;/h2&gt;
+&lt;p&gt;Para empezar a practicar con los inputs, intenta esta secuencia básica:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Matchup contra Steve</title>
+      <link>http://localhost:1313/matchups/steve/</link>
+      <pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/matchups/steve/</guid>
+      <description>&lt;h1 id=&#34;cómo-sobrevivir-al-bloque&#34;&gt;Cómo sobrevivir al bloque&lt;/h1&gt;
+&lt;p&gt;Steve es uno de los matchups más difíciles para Bayonetta debido a su capacidad de campear detrás de sus muros de piedra.&lt;/p&gt;
+&lt;h2 id=&#34;consejos-rápidos&#34;&gt;Consejos rápidos&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Evita el carro:&lt;/strong&gt; Usa tu velocidad aérea para esquivar el carro de mina. Si te atrapa, estás en problemas.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Witch Time estratégico:&lt;/strong&gt; Si Steve abusa de los golpes cargados con la espada de diamante, un &lt;em&gt;Witch Time&lt;/em&gt; bien medido puede costarle la vida a porcentajes medios.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
