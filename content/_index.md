@@ -5,12 +5,9 @@ layout: "single" # Esto le dice a PaperMod que renderice este archivo como una p
 
 # ¡Bienvenido a la guía definitiva de Bayonetta! 
 
-![](/images/come-on.webp)
-
-
-Esta plataforma está pensada como un compendio técnico para los jugadores que buscan dominar a **Bayonetta** en *Super Smash Bros. Ultimate*. 
-
-Aquí recopilaremos todo el metajuego en español.
+<div style="text-align: center;">
+  <img src="/images/come-on.webp" alt="Animación del combo">
+</div>
 
 ## ¿Qué vas a encontrar aquí?
 

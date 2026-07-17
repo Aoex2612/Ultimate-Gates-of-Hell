@@ -8,7 +8,7 @@ env = 'production'
 title = 'Ultimate Gates of Hell'
 description = 'New you, dead you'
 defaultTheme = 'dark'
-showToc = true
+showToc = false
 
 [[menu.main]]
 name = "Combos"
@@ -19,3 +19,8 @@ weight = 10
 name = "Matchups"
 url = "/matchups/"
 weight = 20
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
