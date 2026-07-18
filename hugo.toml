@@ -14,22 +14,22 @@ appleTouchIcon = "/apple-touch-icon.png"
 
 [[menu.main]]
 name = "Framedata"
-pageRef = "/framedata"
+url = "/framedata"
 weight = 1
 
 [[menu.main]]
 name = "Combos"
-url = "/posts/"
+url = "/posts"
 weight = 2
 
 [[menu.main]]
 name = "Matchups"
-pageRef = "/matchups"
+url = "/matchups"
 weight = 3
 
 [[menu.main]]
 name = "Stages"
-url = "/stages/"
+url = "/stages"
 weight = 4
 
 [markup]
