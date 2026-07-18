@@ -2,8 +2,6 @@ baseURL = 'http://192.168.1.170/'
 locale = 'eng'
 title = 'Ultimate Gates of Hell'
 theme = 'PaperMod'
-relativeURLs = true
-canonifyURLs = false
 
 [params]
 env = 'production'
@@ -16,7 +14,7 @@ appleTouchIcon = "/apple-touch-icon.png"
 
 [[menu.main]]
 name = "Framedata"
-url = "/framedata/"
+pageRef = "/framedata"
 weight = 1
 
 [[menu.main]]
@@ -26,7 +24,7 @@ weight = 2
 
 [[menu.main]]
 name = "Matchups"
-url = "/matchups/"
+pageRef = "/matchups"
 weight = 3
 
 [[menu.main]]
