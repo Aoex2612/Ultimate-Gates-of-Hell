@@ -1,7 +1,6 @@
 +++
-title = ''
-date = 2026-07-16T12:00:00Z
-showDate = false
+title = "Banjo & Kazooie"
+layout = "single"
 draft = false
 +++
 

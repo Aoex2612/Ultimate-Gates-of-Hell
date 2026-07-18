@@ -1,11 +1,11 @@
 +++
 title = "Matchups"
 description = ""
-toc = false
-showToC = false
+layout = "single"
 hidemeta = true
 omitTimestamps = true
-layout = "single"
+toc = false
+showToC = false
 +++
 
 <!-- Contenedor del Grid -->
