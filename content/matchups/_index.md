@@ -3,9 +3,9 @@ title = "Matchups"
 description = ""
 toc = false
 showToC = false
-showDate = false
+hidemeta = true
+omitTimestamps = true
 layout = "single"
-omitTimestamps = false
 +++
 
 <!-- Contenedor del Grid -->
