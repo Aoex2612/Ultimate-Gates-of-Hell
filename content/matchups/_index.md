@@ -4,19 +4,18 @@ description = ""
 toc = false
 showToC = false
 showDate = false
-    
-# Esto limpia barras laterales o layouts automáticos de lista si tu versión de PaperMod los activa
-layout = "single" 
+layout = "single"
+omitTimestamps = false
 +++
 
 <!-- Contenedor del Grid -->
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 15px; margin-top: 5px; width: 100%;">
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 15px; margin-top: 20px; width: 100%;">
 
   <!-- Tarjeta: Banjo -->
   <a href="/matchups/banjo/" style="text-decoration: none; color: inherit;">
-  <div style="position: relative; background: #1a1a1a; border-radius: 6px; overflow: hidden; aspect-ratio: 1/1; border: 1px solid #333; transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="/images/fighters/Banjo.webp" alt="Bayonetta" style="width: 100%; height: 100%; object-fit: contain; object-position: center 20%; padding: 10px; opacity: 0.7;">
-    <div style="position: absolute; bottom: 10px; left: 0; width: 100%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 1rem; color: #fff; text-shadow: 2px 2px 4px rgba(0,0,0,0.9);">
+  <div style="position: relative; background: #1a1a1a; border-radius: 6px; overflow: hidden; aspect-ratio: 1/1; border: 1px solid #ffffff; transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="/images/fighters/Banjo.webp" alt="Banjo" style="width: 140%; height: 140%; object-fit: contain; position: absolute; top: 45%; left: 50%; transform: translate(-50%, -50%); opacity: 0.7;">
+    <div style="position: absolute; bottom: 0; left: 0; width: 100%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 1rem; color: #fff; text-shadow: 2px 2px 4px rgba(0,0,0,0.9); background: linear-gradient(to top, rgba(0,0,0,0.9), rgba(0,0,0,0)); padding-bottom: 10px; height: 50px; z-index: 2;">
       Banjo & Kazooie
     </div>
   </div>
@@ -25,8 +24,8 @@ layout = "single"
   <!-- Tarjeta: Bayonetta -->
   <a href="/matchups/bayonetta/" style="text-decoration: none; color: inherit;">
   <div style="position: relative; background: #1a1a1a; border-radius: 6px; overflow: hidden; aspect-ratio: 1/1; border: 1px solid #333; transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="/images/fighters/Bayonetta.webp" alt="Bayonetta" style="width: 100%; height: 100%; object-fit: contain; object-position: center 20%; padding: 10px; opacity: 0.7;">
-    <div style="position: absolute; bottom: 10px; left: 0; width: 100%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 1rem; color: #fff; text-shadow: 2px 2px 4px rgba(0,0,0,0.9);">
+    <img src="/images/fighters/Bayonetta.webp" alt="Bayonetta" style="width: 150%; height: 150%; object-fit: contain; position: absolute; top: 50%; left: 52%; transform: translate(-50%, -50%); opacity: 0.7;">
+    <div style="position: absolute; bottom: 0; left: 0; width: 100%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 1rem; color: #fff; text-shadow: 2px 2px 4px rgba(0,0,0,0.9); background: linear-gradient(to top, rgba(0,0,0,0.9), rgba(0,0,0,0)); padding-bottom: 10px; height: 50px; z-index: 2;">
       Bayonetta
     </div>
   </div>
@@ -35,8 +34,8 @@ layout = "single"
   <!-- Tarjeta: Bowser -->
   <a href="/matchups/bowser/" style="text-decoration: none; color: inherit;">
   <div style="position: relative; background: #1a1a1a; border-radius: 6px; overflow: hidden; aspect-ratio: 1/1; border: 1px solid #333; transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="/images/fighters/Bowser.webp" alt="Bayonetta" style="width: 100%; height: 100%; object-fit: contain; object-position: center 20%; padding: 10px; opacity: 0.7;">
-    <div style="position: absolute; bottom: 10px; left: 0; width: 100%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 1rem; color: #fff; text-shadow: 2px 2px 4px rgba(0,0,0,0.9);">
+    <img src="/images/fighters/Bowser.webp" alt="Bowser" style="width: 135%; height: 135%; object-fit: contain; position: absolute; top: 48%; left: 50%; transform: translate(-50%, -50%); opacity: 0.7;">
+    <div style="position: absolute; bottom: 0; left: 0; width: 100%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 1rem; color: #fff; text-shadow: 2px 2px 4px rgba(0,0,0,0.9); background: linear-gradient(to top, rgba(0,0,0,0.9), rgba(0,0,0,0)); padding-bottom: 10px; height: 50px; z-index: 2;">
       Bowser
     </div>
   </div>
@@ -45,8 +44,8 @@ layout = "single"
   <!-- Tarjeta: Junior -->
   <a href="/matchups/junior/" style="text-decoration: none; color: inherit;">
   <div style="position: relative; background: #1a1a1a; border-radius: 6px; overflow: hidden; aspect-ratio: 1/1; border: 1px solid #333; transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="/images/fighters/Junior.webp" alt="Bayonetta" style="width: 100%; height: 100%; object-fit: contain; object-position: center 20%; padding: 10px; opacity: 0.7;">
-    <div style="position: absolute; bottom: 10px; left: 0; width: 100%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 1rem; color: #fff; text-shadow: 2px 2px 4px rgba(0,0,0,0.9);">
+    <img src="/images/fighters/Junior.webp" alt="Bowser Jr." style="width: 130%; height: 130%; object-fit: contain; position: absolute; top: 52%; left: 50%; transform: translate(-50%, -50%); opacity: 0.7;">
+    <div style="position: absolute; bottom: 0; left: 0; width: 100%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 1rem; color: #fff; text-shadow: 2px 2px 4px rgba(0,0,0,0.9); background: linear-gradient(to top, rgba(0,0,0,0.9), rgba(0,0,0,0)); padding-bottom: 10px; height: 50px; z-index: 2;">
       Bowser Jr.
     </div>
   </div>
@@ -55,8 +54,8 @@ layout = "single"
   <!-- Tarjeta: Byleth -->
   <a href="/matchups/byleth/" style="text-decoration: none; color: inherit;">
   <div style="position: relative; background: #1a1a1a; border-radius: 6px; overflow: hidden; aspect-ratio: 1/1; border: 1px solid #333; transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="/images/fighters/Byleth.png" alt="Bayonetta" style="width: 100%; height: 100%; object-fit: contain; object-position: center 20%; padding: 10px; opacity: 0.7;">
-    <div style="position: absolute; bottom: 10px; left: 0; width: 100%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 1rem; color: #fff; text-shadow: 2px 2px 4px rgba(0,0,0,0.9);">
+    <img src="/images/fighters/Byleth.png" alt="Byleth" style="width: 140%; height: 140%; object-fit: contain; position: absolute; top: 48%; left: 50%; transform: translate(-50%, -50%); opacity: 0.7;">
+    <div style="position: absolute; bottom: 0; left: 0; width: 100%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 1rem; color: #fff; text-shadow: 2px 2px 4px rgba(0,0,0,0.9); background: linear-gradient(to top, rgba(0,0,0,0.9), rgba(0,0,0,0)); padding-bottom: 10px; height: 50px; z-index: 2;">
       Byleth
     </div>
   </div>
@@ -65,13 +64,11 @@ layout = "single"
   <!-- Tarjeta: Falcon -->
   <a href="/matchups/falcon/" style="text-decoration: none; color: inherit;">
   <div style="position: relative; background: #1a1a1a; border-radius: 6px; overflow: hidden; aspect-ratio: 1/1; border: 1px solid #333; transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="/images/fighters/Falcon.png" alt="Bayonetta" style="width: 100%; height: 125%; object-fit: contain; object-position: center 20%; padding: 10px; opacity: 0.7;">
-    <div style="position: absolute; bottom: 10px; left: 0; width: 100%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 1rem; color: #fff; text-shadow: 2px 2px 4px rgba(0,0,0,0.9);">
+    <img src="/images/fighters/Falcon.png" alt="Captain Falcon" style="width: 140%; height: 140%; object-fit: contain; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); opacity: 0.7;">
+    <div style="position: absolute; bottom: 0; left: 0; width: 100%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 1rem; color: #fff; text-shadow: 2px 2px 4px rgba(0,0,0,0.9); background: linear-gradient(to top, rgba(0,0,0,0.9), rgba(0,0,0,0)); padding-bottom: 10px; height: 50px; z-index: 2;">
       Captain Falcon
     </div>
   </div>
   </a>
-
-  <!-- Añade tantos bloques <a>...</a> como personajes quieras mapear -->
 
 </div>
