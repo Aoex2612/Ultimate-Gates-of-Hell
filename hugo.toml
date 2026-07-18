@@ -2,6 +2,8 @@ baseURL = 'http://192.168.1.170/'
 locale = 'eng'
 title = 'Ultimate Gates of Hell'
 theme = 'PaperMod'
+relativeURLs = true
+canonifyURLs = false
 
 [params]
 env = 'production'
