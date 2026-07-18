@@ -6,27 +6,61 @@
     <description>Recent content in Matchups on Ultimate Gates of Hell</description>
     <generator>Hugo</generator>
     <language>eng</language>
-    <lastBuildDate>Thu, 16 Jul 2026 12:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/matchups/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Matchup contra Steve</title>
-      <link>http://localhost:1313/matchups/steve/</link>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/matchups/steve/</guid>
-      <description>&lt;h1 id=&#34;cómo-sobrevivir-al-bloque&#34;&gt;Cómo sobrevivir al bloque&lt;/h1&gt;
-&lt;p&gt;Steve es uno de los matchups más difíciles para Bayonetta debido a su capacidad de campear detrás de sus muros de piedra.&lt;/p&gt;
-&lt;h2 id=&#34;consejos-rápidos&#34;&gt;Consejos rápidos&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Evita el carro:&lt;/strong&gt; Usa tu velocidad aérea para esquivar el carro de mina. Si te atrapa, estás en problemas.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Witch Time estratégico:&lt;/strong&gt; Si Steve abusa de los golpes cargados con la espada de diamante, un &lt;em&gt;Witch Time&lt;/em&gt; bien medido puede costarle la vida a porcentajes medios.&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
     <item>
       <title>Matchups</title>
       <link>http://localhost:1313/matchups/matchups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/matchups/matchups/</guid>
-      <description>Matchups</description>
+      <description>&lt;!-- Contenedor del Grid --&gt;
+&lt;div style=&#34;display: grid; grid-template-columns: repeat(3, minmax(180px, 1fr)); gap: 15px; margin-top: 30px; width: 100%;&#34;&gt;
+  &lt;!-- Tarjeta: Banjo --&gt;
+  &lt;a href=&#34;http://localhost:1313/matchups/banjo/&#34; style=&#34;text-decoration: none; color: inherit;&#34;&gt;
+  &lt;div style=&#34;position: relative; background: #1a1a1a; border-radius: 6px; overflow: hidden; aspect-ratio: 1/1; border: 1px solid #333; transition: transform 0.2s; cursor: pointer;&#34; onmouseover=&#34;this.style.transform=&#39;scale(1.03)&#39;&#34; onmouseout=&#34;this.style.transform=&#39;scale(1)&#39;&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/images/fighters/Banjo.webp&#34; alt=&#34;Bayonetta&#34; style=&#34;width: 100%; height: 100%; object-fit: contain; object-position: center 20%; padding: 10px; opacity: 0.7;&#34;&gt;
+    &lt;div style=&#34;position: absolute; bottom: 10px; left: 0; width: 100%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 1rem; color: #fff; text-shadow: 2px 2px 4px rgba(0,0,0,0.9);&#34;&gt;
+      Banjo &amp; Kazooie
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;/a&gt;
+  &lt;!-- Tarjeta: Bayonetta --&gt;
+  &lt;a href=&#34;http://localhost:1313/matchups/bayonetta/&#34; style=&#34;text-decoration: none; color: inherit;&#34;&gt;
+  &lt;div style=&#34;position: relative; background: #1a1a1a; border-radius: 6px; overflow: hidden; aspect-ratio: 1/1; border: 1px solid #333; transition: transform 0.2s; cursor: pointer;&#34; onmouseover=&#34;this.style.transform=&#39;scale(1.03)&#39;&#34; onmouseout=&#34;this.style.transform=&#39;scale(1)&#39;&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/images/fighters/Bayonetta.webp&#34; alt=&#34;Bayonetta&#34; style=&#34;width: 100%; height: 100%; object-fit: contain; object-position: center 20%; padding: 10px; opacity: 0.7;&#34;&gt;
+    &lt;div style=&#34;position: absolute; bottom: 10px; left: 0; width: 100%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 1rem; color: #fff; text-shadow: 2px 2px 4px rgba(0,0,0,0.9);&#34;&gt;
+      Bayonetta
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;/a&gt;
+  &lt;!-- Tarjeta: Bowser --&gt;
+  &lt;a href=&#34;http://localhost:1313/matchups/bowser/&#34; style=&#34;text-decoration: none; color: inherit;&#34;&gt;
+  &lt;div style=&#34;position: relative; background: #1a1a1a; border-radius: 6px; overflow: hidden; aspect-ratio: 1/1; border: 1px solid #333; transition: transform 0.2s; cursor: pointer;&#34; onmouseover=&#34;this.style.transform=&#39;scale(1.03)&#39;&#34; onmouseout=&#34;this.style.transform=&#39;scale(1)&#39;&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/images/fighters/Bowser.webp&#34; alt=&#34;Bayonetta&#34; style=&#34;width: 100%; height: 100%; object-fit: contain; object-position: center 20%; padding: 10px; opacity: 0.7;&#34;&gt;
+    &lt;div style=&#34;position: absolute; bottom: 10px; left: 0; width: 100%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 1rem; color: #fff; text-shadow: 2px 2px 4px rgba(0,0,0,0.9);&#34;&gt;
+      Bowser
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;/a&gt;
+  &lt;!-- Tarjeta: Junior --&gt;
+  &lt;a href=&#34;http://localhost:1313/matchups/junior/&#34; style=&#34;text-decoration: none; color: inherit;&#34;&gt;
+  &lt;div style=&#34;position: relative; background: #1a1a1a; border-radius: 6px; overflow: hidden; aspect-ratio: 1/1; border: 1px solid #333; transition: transform 0.2s; cursor: pointer;&#34; onmouseover=&#34;this.style.transform=&#39;scale(1.03)&#39;&#34; onmouseout=&#34;this.style.transform=&#39;scale(1)&#39;&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/images/fighters/Junior.webp&#34; alt=&#34;Bayonetta&#34; style=&#34;width: 100%; height: 100%; object-fit: contain; object-position: center 20%; padding: 10px; opacity: 0.7;&#34;&gt;
+    &lt;div style=&#34;position: absolute; bottom: 10px; left: 0; width: 100%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 1rem; color: #fff; text-shadow: 2px 2px 4px rgba(0,0,0,0.9);&#34;&gt;
+      Bowser
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;/a&gt;
+  &lt;!-- Tarjeta: Byleth --&gt;
+  &lt;a href=&#34;http://localhost:1313/matchups/byleth/&#34; style=&#34;text-decoration: none; color: inherit;&#34;&gt;
+  &lt;div style=&#34;position: relative; background: #1a1a1a; border-radius: 6px; overflow: hidden; aspect-ratio: 1/1; border: 1px solid #333; transition: transform 0.2s; cursor: pointer;&#34; onmouseover=&#34;this.style.transform=&#39;scale(1.03)&#39;&#34; onmouseout=&#34;this.style.transform=&#39;scale(1)&#39;&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/images/fighters/Byleth.png&#34; alt=&#34;Bayonetta&#34; style=&#34;width: 125%; height: 125%; object-fit: contain; object-position: center 20%; padding: 10px; opacity: 0.7;&#34;&gt;
+    &lt;div style=&#34;position: absolute; bottom: 10px; left: 0; width: 100%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 1rem; color: #fff; text-shadow: 2px 2px 4px rgba(0,0,0,0.9);&#34;&gt;
+      Byleth
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;/a&gt;
+  &lt;!-- Añade tantos bloques &lt;a&gt;...&lt;/a&gt; como personajes quieras mapear --&gt;
+&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
