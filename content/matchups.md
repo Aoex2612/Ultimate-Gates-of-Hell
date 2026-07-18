@@ -20,7 +20,7 @@ layout = "single"
       Bayonetta
     </div>
   </div>
-</a>s
+</a>
 
   <!-- Añade tantos bloques <a>...</a> como personajes quieras mapear -->
 
