@@ -10,7 +10,7 @@ layout = "single"
 +++
 
 <!-- Contenedor del Grid -->
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 15px; margin-top: 10px; width: 100%;">
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 15px; margin-top: 15px; width: 100%;">
 
   <!-- Tarjeta: Banjo -->
   <a href="/matchups/banjo/" style="text-decoration: none; color: inherit;">
