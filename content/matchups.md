@@ -14,13 +14,13 @@ layout = "single"
 
   <!-- Tarjeta: Bayonetta -->
   <a href="/matchups/bayonetta/" style="text-decoration: none; color: inherit;">
-    <div style="position: relative; background: #222; border-radius: 4px; overflow: hidden; aspect-ratio: 16/9; border: 1px solid #333; transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
-      <img src="/images/fighters/Bayonetta.webp" alt="Bayonetta" style="width: 100%; height: 100%; object-fit: cover; opacity: 0.6;">
-      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 1.1rem; color: #fff; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);">
-        Bayonetta
-      </div>
+  <div style="position: relative; background: #1a1a1a; border-radius: 6px; overflow: hidden; aspect-ratio: 1/1; border: 1px solid #333; transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="/images/fighters/bayonetta.png" alt="Bayonetta" style="width: 100%; height: 100%; object-fit: contain; padding: 10px; opacity: 0.7;">
+    <div style="position: absolute; bottom: 10px; left: 0; width: 100%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 1rem; color: #fff; text-shadow: 2px 2px 4px rgba(0,0,0,0.9);">
+      Bayonetta
     </div>
-  </a>
+  </div>
+</a>s
 
   <!-- Añade tantos bloques <a>...</a> como personajes quieras mapear -->
 
