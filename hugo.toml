@@ -14,7 +14,7 @@ appleTouchIcon = "/apple-touch-icon.png"
 
 [[menu.main]]
 name = "Framedata"
-url = "/framedata"
+url = "/framedata/"
 weight = 1
 
 [[menu.main]]
