@@ -19,7 +19,7 @@ weight = 1
 
 [[menu.main]]
 name = "Combos"
-url = "/posts"
+url = "/combos"
 weight = 2
 
 [[menu.main]]
