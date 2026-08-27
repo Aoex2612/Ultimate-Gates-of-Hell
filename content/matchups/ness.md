@@ -49,4 +49,4 @@ Here's where you can win the matchup. Exploit it to the max and avoid dumb mista
 
 # VODs:
 
-{{< youtube jmJ1XR-h-bvbp8p6>}}
+{{< youtube bpZvQO_rAPjTuD77>}} 
