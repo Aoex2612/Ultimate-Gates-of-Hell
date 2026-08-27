@@ -1,8 +1,8 @@
 +++
-title = "Guía de Combos de Bayonetta"
-description = "Combos óptimos y mecánicas avanzadas en Smash Ultimate"
-
-# Añade estas líneas para ocultar la tabla de contenidos y la fecha:
+title = "Ultimage Gates of Hell"
+description = ""
+layout = "single"
+hidemeta = true
 toc = false
 showToC = false
 showDate = false
