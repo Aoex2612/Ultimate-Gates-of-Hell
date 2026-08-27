@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://192.168.1.170/matchups/steve/</loc>
+    <loc>/matchups/steve/</loc>
     <lastmod>2026-07-16T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://192.168.1.170/combos/</loc>
+    <loc>/combos/</loc>
     <lastmod>2026-07-16T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://192.168.1.170/combos/combos-basicos/</loc>
+    <loc>/combos/combos-basicos/</loc>
     <lastmod>2026-07-16T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://192.168.1.170/</loc>
+    <loc>/</loc>
     <lastmod>2026-07-16T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://192.168.1.170/matchups/</loc>
+    <loc>/matchups/</loc>
     <lastmod>2026-07-16T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://192.168.1.170/matchups/banjo/</loc>
+    <loc>/matchups/banjo/</loc>
   </url><url>
-    <loc>http://192.168.1.170/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>http://192.168.1.170/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

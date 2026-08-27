@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Matchups on Ultimate Gates of Hell</title>
-    <link>http://192.168.1.170/matchups/</link>
+    <link>/matchups/</link>
     <description>Recent content in Matchups on Ultimate Gates of Hell</description>
     <generator>Hugo</generator>
     <language>eng</language>
     <lastBuildDate>Thu, 16 Jul 2026 12:00:00 +0000</lastBuildDate>
-    <atom:link href="http://192.168.1.170/matchups/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/matchups/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://192.168.1.170/matchups/steve/</link>
+      <link>/matchups/steve/</link>
       <pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
-      <guid>http://192.168.1.170/matchups/steve/</guid>
+      <guid>/matchups/steve/</guid>
       <description>&lt;h1 id=&#34;cómo-sobrevivir-al-bloque&#34;&gt;Cómo sobrevivir al bloque&lt;/h1&gt;
 &lt;p&gt;Steve es uno de los matchups más difíciles para Bayonetta debido a su capacidad de campear detrás de sus muros de piedra.&lt;/p&gt;
 &lt;h2 id=&#34;consejos-rápidos&#34;&gt;Consejos rápidos&lt;/h2&gt;
@@ -23,9 +23,9 @@
     </item>
     <item>
       <title>Banjo &amp; Kazooie</title>
-      <link>http://192.168.1.170/matchups/banjo/</link>
+      <link>/matchups/banjo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.170/matchups/banjo/</guid>
+      <guid>/matchups/banjo/</guid>
       <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
 &lt;p&gt;Banjo&amp;rsquo;s a winning matchup for Bayo. Main reasons for this are his bad physics for escaping combos, meaning he takes a lot of damage and can die from some combos if his sdi isn&amp;rsquo;t the best. Plus his damage output is very low, specially compared to Bayo&amp;rsquo;s&lt;/p&gt;</description>
     </item>
