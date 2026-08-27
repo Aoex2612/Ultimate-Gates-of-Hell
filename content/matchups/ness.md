@@ -43,6 +43,10 @@ It's not too hard to avoid Ness's advantage, but keep in mind what he's looking 
 Here's where you can win the matchup. Exploit it to the max and avoid dumb mistakes when edgeguarding him:
 - He's floaty and combo food, so most of your stuff will connect.
 - He's pretty easy to hit with a witch strike, so if the opportunity presents itself go for it.
-- You can frame trap him well with up airs since his dair it's too slow to land with it consistently.
+- You can frame trap him well with upairs since his dair it's too slow to land with it consistently.
 - He struggles to get off the ledge as his double jump is really bad for it and often gets mashy trying to challenge you and by rolling. Shield and space yourself a lot while ledgetraping him.
 - His recovery is exploitable if you keep an eye on where he's floating. Chase him and slowly push him away until he's out of resources and either can't reach the ledge or you can get a witch time from his up b and finish him off.
+
+# VODs:
+
+{{< youtube jmJ1XR-h-bvbp8p6>}}
