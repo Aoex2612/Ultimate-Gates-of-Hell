@@ -13,7 +13,7 @@ publicDate = false
 # Welcome to the definitive Bayonetta guide! 
 
 <div style="display: flex; justify-content: center; width: 100%;">
-  <img src="/images/come-on.webp" alt="Animación del combo" style="display: block; margin: 0 auto;">
+  <img src="/images/come-on.webp" alt="Idle" style="display: block; margin: 0 auto;">
 </div>
 
 ## What can you find here?

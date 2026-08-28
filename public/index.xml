@@ -9,19 +9,6 @@
     <lastBuildDate>Thu, 16 Jul 2026 12:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>/matchups/steve/</link>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
-      <guid>/matchups/steve/</guid>
-      <description>&lt;h1 id=&#34;cómo-sobrevivir-al-bloque&#34;&gt;Cómo sobrevivir al bloque&lt;/h1&gt;
-&lt;p&gt;Steve es uno de los matchups más difíciles para Bayonetta debido a su capacidad de campear detrás de sus muros de piedra.&lt;/p&gt;
-&lt;h2 id=&#34;consejos-rápidos&#34;&gt;Consejos rápidos&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Evita el carro:&lt;/strong&gt; Usa tu velocidad aérea para esquivar el carro de mina. Si te atrapa, estás en problemas.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Witch Time estratégico:&lt;/strong&gt; Si Steve abusa de los golpes cargados con la espada de diamante, un &lt;em&gt;Witch Time&lt;/em&gt; bien medido puede costarle la vida a porcentajes medios.&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
       <title>Guía de Combos Básicos de Bayonetta</title>
       <link>/combos/combos-basicos/</link>
       <pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
@@ -36,6 +23,13 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;el-combo-básico-de-iniciación-0---30&#34;&gt;El Combo Básico de Iniciación (0% - 30%)&lt;/h2&gt;
 &lt;p&gt;Para empezar a practicar con los inputs, intenta esta secuencia básica:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/matchups/steve/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/matchups/steve/</guid>
+      <description></description>
     </item>
     <item>
       <title>Banjo &amp; Kazooie</title>
