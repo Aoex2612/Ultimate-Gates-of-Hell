@@ -91,4 +91,14 @@ showToC = false
   </div>
   </a>
 
+  <!-- Tarjeta: Falco -->
+  <a href="/matchups/falco/" style="text-decoration: none; color: inherit;">
+  <div style="position: relative; background: #1a1a1a; border-radius: 6px; overflow: hidden; aspect-ratio: 1/1; border: 1px solid #333; transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="/images/fighters/falco.png" alt="Falco" style="width: 85%; height: 85%; object-fit: contain; position: absolute; top: 46%; left: 50%; transform: translate(-50%, -50%); opacity: 0.7;">
+    <div style="position: absolute; bottom: 0; left: 0; width: 100%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 1rem; color: #fff; text-shadow: 2px 2px 4px rgba(0,0,0,0.9); background: linear-gradient(to top, rgba(0,0,0,0.9), rgba(0,0,0,0)); padding-bottom: 10px; height: 50px; z-index: 2;">
+      Falco
+    </div>
+  </div>
+  </a>
+
 </div>
