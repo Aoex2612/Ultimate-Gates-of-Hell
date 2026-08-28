@@ -25,10 +25,9 @@ This is the trickiest part of the matchup. Most of ness gameplan will reside on 
 ### You SHOULDN'T:
 - **Jump over him**. His oos game makes it impossible.
 - **Abk at mid range**. It will wiff and his bair will punish you easily, or his upair if you land on a platform. He can also beat it with fair.
-<video controls width="100%" style="border-radius: 8px; max-width: 600px; border: 1px solid #333;">
-  <source src="/images/ness-fair.mp4" type="video/mp4">
-  Tu navegador no soporta reproducción de vídeo.
-</video>
+<div style="display: flex; justify-content: center; width: 100%;">
+  <img src="/images/ness-fair.webp" alt="Idle" style="display: block; margin: 0 auto;">
+</div>
 - **Bair too much**, since it's **easy for him to parry** due to it being too precise to land to mix-up your timings.
 - **Abuse shield and rolling at around 120%**. You're due to getting back thrown or up smashed. Instead, use your movement to avoid him.
 - **Fish for up tilt**. He has an easy time punishing you for being too greedy with it.
