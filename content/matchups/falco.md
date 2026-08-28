@@ -15,7 +15,7 @@ Since both Bayo and Falco have a **similar gameplan** (slow characters, with a h
 ### You SHOULD:
 - **Put up your shield while he's in the air**, since none of his aerials are safe on shield and can be up b'd.
 - **Space your aerials and abk his agression**, as you'll win most of these challenges and get tons of damage.
-- **Jump oos and falling nair** against his dtilt.
+- **Jump oos and falling nair** **against his dtilt**.
 - **Maintain yourself at mid range**, where he can't laser comfortably nor catch you with a shorthop fair. Also, because he's slow, you can dash away and jump away if he tries to get too close.
 - **Approach with shorthops at full range** to dodge lasers.
 - **Always be mindful of desperate side b approaches.**
@@ -38,7 +38,7 @@ Falco's advantage is scary, so try to not find yourself on it in the first place
 
 Falco's a fastfaller that gets hard comoboed by bayo, so make the most out of your damage. Some tips:
 - **Uptilt bair kills around 100% at ledge**, and **130% center stage** (no rage nor staling factored in).
-- **Fair 1-2** combos pretty well into **jab and uptilt**
+- **Fair 1-2** combos pretty well into **jab and uptilt**.
 - **You can bair his side b trying to recover.**
 - While ledgetraping, be mindful of **side b reversal attemps**. Shield them and punish, NEVER PARRY as he'll go away.
 
