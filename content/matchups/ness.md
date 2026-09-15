@@ -27,7 +27,7 @@ This is the trickiest part of the matchup. Most of ness gameplan will reside on 
 - **Abk at mid range**. It will wiff and his bair will punish you easily, or his upair if you land on a platform. He can also beat it with fair.
 
 <div style="display: flex; justify-content: center; width: 100%;">
-  {{<img src="images/ness-fair.webp" alt="Idle" style="display: block; margin: 0 auto;">}}
+  <img src="../images/ness-fair.webp" alt="Idle" style="display: block; margin: 0 auto;">
 </div>
 
 - **Bair too much**, since it's **easy for him to parry** due to it being too precise to land to mix-up your timings.
