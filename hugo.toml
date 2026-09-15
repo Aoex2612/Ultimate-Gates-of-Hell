@@ -11,8 +11,12 @@ title = 'Ultimate Gates of Hell'
 description = ''
 defaultTheme = 'dark'
 showToc = false
+
+[params.assets]
 favicon = "favicon.svg"
-appleTouchIcon = "apple-touch-icon.png"
+favicon16x16 = "favicon.svg"
+favicon32x32 = "favicon.svg"
+apple_touch_icon = "apple-touch-icon.png"
 
 [[menu.main]]
 name = "Framedata"
