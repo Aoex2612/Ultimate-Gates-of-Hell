@@ -1,5 +1,4 @@
 +++
-title = "Ultimage Gates of Hell"
 description = ""
 layout = "single"
 hidemeta = true
