@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://Aoex2612.github.io/Ultimate-Gates-of-Hell/'
 relativeURLs = true
 canonifyURLs = false
 locale = 'eng'
@@ -11,7 +11,7 @@ title = 'Ultimate Gates of Hell'
 description = ''
 defaultTheme = 'dark'
 showToc = false
-favicon = "/favicon.ico"
+favicon = "/favicon.svg"
 appleTouchIcon = "/apple-touch-icon.png"
 
 [[menu.main]]
