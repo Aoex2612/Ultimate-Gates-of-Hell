@@ -1,5 +1,5 @@
 baseURL = 'https://Aoex2612.github.io/Ultimate-Gates-of-Hell/'
-relativeURLs = true
+relativeURLs = false
 canonifyURLs = false
 locale = 'eng'
 title = 'Ultimate Gates of Hell'
@@ -11,27 +11,27 @@ title = 'Ultimate Gates of Hell'
 description = ''
 defaultTheme = 'dark'
 showToc = false
-favicon = "/favicon.svg"
-appleTouchIcon = "/apple-touch-icon.png"
+favicon = "favicon.svg"
+appleTouchIcon = "apple-touch-icon.png"
 
 [[menu.main]]
 name = "Framedata"
-url = "/framedata"
+url = "framedata"
 weight = 1
 
 [[menu.main]]
 name = "Combos"
-url = "/combos"
+url = "combos"
 weight = 2
 
 [[menu.main]]
 name = "Matchups"
-url = "/matchups"
+url = "matchups"
 weight = 3
 
 [[menu.main]]
 name = "Stages"
-url = "/stages"
+url = "stages"
 weight = 4
 
 [markup]
