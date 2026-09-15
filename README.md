@@ -1,6 +1,10 @@
 # Ultimate Gates of Hell 
 
-The definitive, open-source Bayonetta guide for Super Smash Bros. Ultimate. Hosted on GitHub Pages and built for quick access to every resource. You can access it [here](https://aoex2612.github.io/Ultimate-Gates-of-Hell/)
+<div align="center">
+  <img src="static/images/come-on.webp" alt="Bayonetta" width="200">
+</div>
+
+The definitive, open-source Bayonetta guide for Super Smash Bros. Ultimate. Hosted on GitHub Pages and built for quick access to every resource. You can access it [here](https://aoex2612.github.io/Ultimate-Gates-of-Hell/).
 
 ## What's Inside?
 
