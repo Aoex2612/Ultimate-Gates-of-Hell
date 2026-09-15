@@ -13,9 +13,9 @@ defaultTheme = 'dark'
 showToc = false
 
 [params.assets]
-favicon = "favicon.svg"
-favicon16x16 = "favicon.svg"
-favicon32x32 = "favicon.svg"
+favicon = "favicon.ico"
+favicon16x16 = "favicon-96x96.png"
+favicon32x32 = "favicon-96x96.png"
 apple_touch_icon = "apple-touch-icon.png"
 
 [[menu.main]]
