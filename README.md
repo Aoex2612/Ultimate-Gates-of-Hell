@@ -1,3 +1,5 @@
+[![Deploy Hugo site to Pages](https://github.com/Aoex2612/Ultimate-Gates-of-Hell/actions/workflows/deploy.yml/badge.svg)](https://github.com/Aoex2612/Ultimate-Gates-of-Hell/actions/workflows/deploy.yml)
+![Hugo](https://img.shields.io/badge/Hugo-PaperMod-purple)
 # Ultimate Gates of Hell 
 
 <div align="center">
